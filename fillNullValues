@@ -1,0 +1,2 @@
+# Create the DataFrame: numeric_data_only
+numeric_data_only = df[NUMERIC_COLUMNS].fillna(-1000)
