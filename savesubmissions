@@ -1,0 +1,2 @@
+# Save df to csv
+df.to_csv('submissions.csv')
