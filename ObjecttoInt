@@ -1,0 +1,2 @@
+# convert all DataFrame columns to the int64 dtype
+X_train = X_train.astype(int)
